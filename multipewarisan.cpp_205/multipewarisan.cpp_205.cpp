@@ -15,3 +15,8 @@ public:
 	}
 
 };
+
+class manusia {
+public:
+	string jeniskelamin;
+};
